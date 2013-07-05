@@ -1,2 +1,2 @@
-FirstPhonegpApp
+FirstPhonegapApp
 ===============
